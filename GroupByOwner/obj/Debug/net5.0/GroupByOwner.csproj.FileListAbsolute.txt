@@ -1,0 +1,16 @@
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\obj\Debug\net5.0\GroupByOwner.csprojAssemblyReference.cache
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\obj\Debug\net5.0\GroupByOwner.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\obj\Debug\net5.0\GroupByOwner.AssemblyInfoInputs.cache
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\obj\Debug\net5.0\GroupByOwner.AssemblyInfo.cs
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\obj\Debug\net5.0\GroupByOwner.csproj.CoreCompileInputs.cache
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\bin\Debug\net5.0\GroupByOwner.exe
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\bin\Debug\net5.0\GroupByOwner.deps.json
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\bin\Debug\net5.0\GroupByOwner.runtimeconfig.json
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\bin\Debug\net5.0\GroupByOwner.runtimeconfig.dev.json
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\bin\Debug\net5.0\GroupByOwner.dll
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\bin\Debug\net5.0\ref\GroupByOwner.dll
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\bin\Debug\net5.0\GroupByOwner.pdb
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\obj\Debug\net5.0\GroupByOwner.dll
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\obj\Debug\net5.0\ref\GroupByOwner.dll
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\obj\Debug\net5.0\GroupByOwner.pdb
+D:\ASP.Net core projects\GroupByOwner\GroupByOwner\obj\Debug\net5.0\GroupByOwner.genruntimeconfig.cache
